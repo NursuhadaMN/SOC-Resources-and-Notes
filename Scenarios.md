@@ -6,4 +6,3 @@
 * [Threat Hunting](https://www.linkedin.com/posts/izzmier_step-by-step-to-threat-hunting-activity-7208648527147671552-zcOl?utm_source=share&utm_medium=member_desktop)
 * [Handling False Positive Alerts](https://www.linkedin.com/posts/izzmier_handling-identifying-false-positive-alerts-activity-7207698356461002752-jQ9N?utm_source=share&utm_medium=member_desktop)
 * [Alerts Analysis](https://www.linkedin.com/posts/izzmier_step-by-step-to-analyse-alerts-activity-7206973580264243201-hdxG?utm_source=share&utm_medium=member_desktop)
-* 
