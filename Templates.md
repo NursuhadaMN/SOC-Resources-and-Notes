@@ -1,0 +1,1 @@
+* [Threat Intelligence Report (Banking & Health)](https://www.linkedin.com/posts/izzmier_how-to-prepare-a-threat-intelligence-report-activity-7209147910297374722-UQMg?utm_source=share&utm_medium=member_desktop)
